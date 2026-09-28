@@ -20,7 +20,9 @@ Lightweight and easy to use in Termux
 Python 3
 Pillow
 Colorama
-Installation
+
+°°°Installation
+
 pip install pillow colorama
 
 °°°Usage
@@ -37,5 +39,6 @@ Exit
 °°°Disclaimer
 
 This project is intended for educational purposes and personal privacy use. Users are responsible for complying with applicable laws and regulations when using this software.
-License
+
+°°°License
 Open-source project available for learning and educational purposes.
